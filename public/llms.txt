@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-086c4c08.zappy5.app
+https://example.com
 נכסי פרימיום, עסקאות דיסקרטיות והזדמנויות השקעה נדירות בתל אביב ובמיקומי פריים. גישה בלעדית לעולם הנדל״ן היוקרתי — רק לקהל נבחר.
 
 ### אודות
-https://-086c4c08.zappy5.app/about
+https://example.com/about
 מי עומד מאחורי ההזדמנויות הנדירות ביותר בשוק? היכנסו לסיפור של מקצועיות, שיקול דעת ואמינות שהפכו אותנו לשם דבר בנדל״ן יוקרתי בישראל.
 
 ### הזדמנויות
-https://-086c4c08.zappy5.app/opportunities
+https://example.com/opportunities
 פרויקטים נבחרים, קרקעות, בניינים ודירות יוקרה במיקומי פריים — כולל עסקאות סגורות ונכסים עם פוטנציאל השבחה. גלו הזדמנויות השקעה שלא מפורסמות לציבור הרחב.
 
 ### צור קשר
-https://-086c4c08.zappy5.app/contact
+https://example.com/contact
 מוכנים לצעד הבא בהשקעות הנדל״ן שלכם? צרו קשר עוד היום לשיחה אישית ודיסקרטית עם מומחי נדל״ן יוקרתי בתל אביב — כי ההזדמנות הנכונה לא מחכה לאף אחד.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-086c4c08.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-086c4c08.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-086c4c08.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-086c4c08.zappy5.app/contact
-- Endpoint: https://-086c4c08.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Luxury Real Estate
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-086c4c08.zappy5.app/sitemap.xml
-- Robots: https://-086c4c08.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-086c4c08.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

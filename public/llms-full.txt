@@ -2,13 +2,13 @@
 
 A high-end, discreet real estate marketing firm specializing in rare and exclusive properties, off-market deals, and premium investment opportunities in Tel Aviv and Israel's prime locations. The brand exudes luxury, trustworthiness, professionalism, and exclusivity — catering to serious investors and buyers who seek access to opportunities unavailable to the general public. The firm positions itself as a gatekeeper to an elite real estate world, combining discretion with authority and elegance.
 
-Source: https://-086c4c08.zappy5.app
+Source: https://example.com
 
 ---
 
 ## נדל״ן יוקרתי | השקעות נדל״ן | פרויקטים נבחרים | נדל״ן בתל אב
 
-URL: https://-086c4c08.zappy5.app
+URL: https://example.com
 Description: נכסי פרימיום, עסקאות דיסקרטיות והזדמנויות השקעה נדירות בתל אביב ובמיקומי פריים. גישה בלעדית לעולם הנדל״ן היוקרתי — רק לקהל נבחר.
 
 נדל״ן יוקרתי | השקעות נדל״ן | פרויקטים נבחרים | נדל״ן בתל אב
@@ -581,7 +581,7 @@ Off-Market | דיסקרטי
 
 ## הכירו את השומרים של עולם הנדל״ן הבלעדי — הדרי נדל״ן ומתחת: שיווק פרויקטים והזדמנויות נדל״ן נבחרות
 
-URL: https://-086c4c08.zappy5.app/about
+URL: https://example.com/about
 Description: מי עומד מאחורי ההזדמנויות הנדירות ביותר בשוק? היכנסו לסיפור של מקצועיות, שיקול דעת ואמינות שהפכו אותנו לשם דבר בנדל״ן יוקרתי בישראל.
 
 הכירו את השומרים של עולם הנדל״ן הבלעדי — הדרי נדל״ן ומתחת: שיווק פרויקטים והזדמנויות נדל״ן נבחרות
@@ -1135,7 +1135,7 @@ Description: מי עומד מאחורי ההזדמנויות הנדירות בי
 
 ## עסקאות שלא תמצא בשום מקום אחר — הדרי נדל״ן ומתחת: שיווק פרויקטים והזדמנויות נדל״ן נבחרות
 
-URL: https://-086c4c08.zappy5.app/opportunities
+URL: https://example.com/opportunities
 Description: פרויקטים נבחרים, קרקעות, בניינים ודירות יוקרה במיקומי פריים — כולל עסקאות סגורות ונכסים עם פוטנציאל השבחה. גלו הזדמנויות השקעה שלא מפורסמות לציבור הרחב.
 
 עסקאות שלא תמצא בשום מקום אחר — הדרי נדל״ן ומתחת: שיווק פרויקטים והזדמנויות נדל״ן נבחרות
@@ -1652,7 +1652,7 @@ Off-Market | בלעדי
 
 ## הדלת לעולם הנדל״ן הנבחר פתוחה — הדרי נדל״ן ומתחת: שיווק פרויקטים והזדמנויות נדל״ן נבחרות
 
-URL: https://-086c4c08.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים לצעד הבא בהשקעות הנדל״ן שלכם? צרו קשר עוד היום לשיחה אישית ודיסקרטית עם מומחי נדל״ן יוקרתי בתל אביב — כי ההזדמנות הנכונה לא מחכה לאף אחד.
 
 הדלת לעולם הנדל״ן הנבחר פתוחה — הדרי נדל״ן ומתחת: שיווק פרויקטים והזדמנויות נדל״ן נבחרות
@@ -2159,7 +2159,7 @@ Description: מוכנים לצעד הבא בהשקעות הנדל״ן שלכם? 
 
 ## מדיניות פרטיות
 
-URL: https://-086c4c08.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2431,7 +2431,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-086c4c08.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2712,7 +2712,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-086c4c08.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
