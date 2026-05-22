@@ -1,0 +1,79 @@
+# הדרי נדל״ן ומתחת: שיווק פרויקטים והזדמנויות נדל״ן נבחרות — Generative Engine Optimization Map
+
+> A high-end, discreet real estate marketing firm specializing in rare and exclusive properties, off-market deals, and premium investment opportunities in Tel Aviv and Israel's prime locations. The brand exudes luxury, trustworthiness, professionalism, and exclusivity — catering to serious investors and buyers who seek access to opportunities unavailable to the general public. The firm positions itself as a gatekeeper to an elite real estate world, combining discretion with authority and elegance.
+
+---
+
+## Pages
+
+### בית
+https://-086c4c08.zappy5.app
+נכסי פרימיום, עסקאות דיסקרטיות והזדמנויות השקעה נדירות בתל אביב ובמיקומי פריים. גישה בלעדית לעולם הנדל״ן היוקרתי — רק לקהל נבחר.
+
+### אודות
+https://-086c4c08.zappy5.app/about
+מי עומד מאחורי ההזדמנויות הנדירות ביותר בשוק? היכנסו לסיפור של מקצועיות, שיקול דעת ואמינות שהפכו אותנו לשם דבר בנדל״ן יוקרתי בישראל.
+
+### הזדמנויות
+https://-086c4c08.zappy5.app/opportunities
+פרויקטים נבחרים, קרקעות, בניינים ודירות יוקרה במיקומי פריים — כולל עסקאות סגורות ונכסים עם פוטנציאל השבחה. גלו הזדמנויות השקעה שלא מפורסמות לציבור הרחב.
+
+### צור קשר
+https://-086c4c08.zappy5.app/contact
+מוכנים לצעד הבא בהשקעות הנדל״ן שלכם? צרו קשר עוד היום לשיחה אישית ודיסקרטית עם מומחי נדל״ן יוקרתי בתל אביב — כי ההזדמנות הנכונה לא מחכה לאף אחד.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-086c4c08.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-086c4c08.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-086c4c08.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-086c4c08.zappy5.app/contact
+- Endpoint: https://-086c4c08.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הדרי נדל״ן ומתחת: שיווק פרויקטים והזדמנויות נדל״ן נבחרות
+A high-end, discreet real estate marketing firm specializing in rare and exclusive properties, off-market deals, and premium investment opportunities in Tel Aviv and Israel's prime locations. The brand exudes luxury, trustworthiness, professionalism, and exclusivity — catering to serious investors and buyers who seek access to opportunities unavailable to the general public. The firm positions itself as a gatekeeper to an elite real estate world, combining discretion with authority and elegance.
+
+## Target Audience
+- משקיעים ורוכשים רציניים המחפשים נדל"ן יוקרתי ועסקאות Off-Market בתל אביב ובמיקומי פריים בישראל
+- משקיעים ורוכשים רציניים בתל אביב
+- משקיעים בינלאומיים בנדל"ן יוקרתי
+- יזמי טכנולוגיה צעירים
+
+## Industry
+Luxury Real Estate
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-086c4c08.zappy5.app/sitemap.xml
+- Robots: https://-086c4c08.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-086c4c08.zappy5.app/llms-full.txt
